@@ -4,7 +4,7 @@
     Valorile maxime de incercat: (2, 131072), (3,14), (4,1), (5,0).
     Pentru valori mai mari, una dintre situatii se poate intampla:
         - se va depasi int
-        - va dura mult timp
+        - va duraasdasdasdas mult timp
         - va depasi memoria maxima alocata.
 
     Varianta recurviva va depasi stiva admisa de program mult mai rapid!
